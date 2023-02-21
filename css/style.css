@@ -4,7 +4,7 @@
     --first-alpha-color: rgba(217,0,98,0.75);
     --second-color: rgb(20,25,45);
     --second-alpha-color: rgba(20, 25, 45, 0.75);
-    --third-color: rgba(80, 20, 100, 0.75);
+    --third-color: rgba(80, 20, 100, 0.95);
 
     --link-color: rgb(80, 158, 227);
     --link-alpha-color: rgba(80, 158, 227, 0.75);
@@ -93,6 +93,13 @@ a:hover{
     
 }
 
+.bg-third-color {
+    background-color: var(--third-color);
+}
+
+.text-third {
+    color: var(--third-color);
+}
 
 
 /* // X-Small devices (portrait phones, less than 576px)
