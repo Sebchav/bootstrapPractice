@@ -91,6 +91,10 @@ a:hover{
     background-color: var(--bg-color);
 }
 
+.bg-alpha-color{
+    background-color: var(--bg-alpha-color);
+}
+
 .bg-gradient-blue-green {
     background-color: rgba(83, 184, 152, 1);
     background-image: linear-gradient(
