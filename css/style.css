@@ -114,6 +114,7 @@ a:hover{
     background-image: var(--bg-image);
     background-repeat: no-repeat;
     background-size: cover;
+    background-position: center;
 }
 
 .bg-third-color {
